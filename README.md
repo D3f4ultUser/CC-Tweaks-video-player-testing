@@ -1,6 +1,9 @@
-A bunch of stuff relating to CC:Tweaked, Not all of it being video related.
-Some of the code is vibecoded. It *works* but I don't know exactly how it all works so, you have been warned.
-If you do, somehow, want to use any of this, go ahead, I really couldn't care less. Just add credit where credit is due.
+Forked From INEEDCHATPROGRAAAAAMS for personal use
 
-Copied because for some reason this isn't working
-Edit: How isn't this working?? It's a complete copy??
+
+
+Despite never putting up a tutorial on youtube or at least if they did I couldn't find it, I managed to figure out how this works.
+
+The only issues I am running into is skill issues, heh. This is honestly kind of fun figuring this whole thing out despite not knowing much about programing in Computer Craft.
+
+I hope to find a reliable way of converting youtube videos to mp4s that I can split nicely and then convert to 32vid files for the program to read. Currently I'm running into constant issues, but I hope to figure this out.
