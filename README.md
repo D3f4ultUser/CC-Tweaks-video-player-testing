@@ -10,5 +10,7 @@ I hope to find a reliable way of converting youtube videos to mp4s that I can sp
 
 
 Current pastebins: For the full installer of the command 'movie' and the program '32vid-player-mini': pastebin run PxKfZGkw
+
 For just the movie program: pastebin get kCPesTs8 movie
+
 For just the 32vid-player-mini program: pastebin get VqQwXjUb /drive/32vid-player-mini
