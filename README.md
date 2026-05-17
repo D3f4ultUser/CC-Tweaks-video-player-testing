@@ -13,4 +13,6 @@ Current pastebins: For the full installer of the command 'movie' and the program
 
 For just the movie program: pastebin get kCPesTs8 movie
 
-For just the 32vid-player-mini program: pastebin get VqQwXjUb /drive/32vid-player-mini
+For nicer names: pastebin get v4HJMU7K /disk/actualNames
+
+For just the 32vid-player-mini program: pastebin get VqQwXjUb /disk/32vid-player-mini
